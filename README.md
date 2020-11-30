@@ -8,6 +8,8 @@ Using Python, I was able to create a table displaying the total rides, drivers, 
 
 ![PyBer_Summary_df](Analysis/PyBer_Summary_df.PNG)
 
+One of the things I wanted to determine based off the datset was the shear amount of cashflow going on between each city type. In the results above, we saw that the "Urban" cities had many more drivers and total rides, but the smaller "Suburban" and "Rural" areas charged more per ride. To determine the total fare amount per city type, I developed the chart below to further analyze.
+
 ![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
 
 ## Summary
