@@ -7,6 +7,6 @@ here
 
 ![PyBer_Summary_df](Analysis/PyBer_Summary_df.PNG)
 
-![PyBer_fare_summary](Analysis/PyBer_fare_summary.PNG)
+![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
 
 ## Summary
