@@ -15,3 +15,11 @@ One of the things I wanted to determine based off the datset was the shear amoun
 ![PyBer_fare_summary](Analysis/PyBer_fare_summary.png)
 
 ## Summary
+Based on the data shown above it is obvious to tell that cities with more people tend to have more rides and thus bring in more total fares. However, it does seem that per ride the driver in a smaller city tends to make more money per ride than the driver in a larger city. To address these issues I have thought of several recommendations:
+
+### Recommendations:
+1) Decrease the number of total drivers in the city, so that the workers make money per ride.
+
+2) If the company is looking to expand, the more populous "Urban" areas are where people tend to use the ride system more often. Cornering the market in higher density populations will be a recipe for success in growing our business model.
+
+3) Drivers in "Rural" and "Suburban" areas tend to make much more money per ride. Creating a system which takes a money from the driver each ride may work better for our company, as we can take a profit more off of each individual drive they are doing.
