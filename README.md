@@ -7,6 +7,6 @@ In this project I combined two data spreadsheets to analyze ride data across a v
 
 ![PyBer_Summary_df](Analysis/PyBer_Summary_df.PNG)
 
-![PyBer_fare_summary](Analysis/PyBBer_fare_summary.PNG)
+![PyBer_fare_summary](Analysis/PyBer_fare_summary.PNG)
 
 ## Summary
